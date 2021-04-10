@@ -10,7 +10,9 @@ public class Main {
 }
 ```
 ## 三元运算符
->* 三运运算符格式`(x > y) ? x : y`
+``` java
+int max = (x > y) ? x : y
+```
 ``` java
 public class Main {  
     public static void main(String[] args) {  
@@ -36,8 +38,7 @@ public class Main {
 }
 ```
 ## switch 语句
->* switch运算符格式
->``` java
+``` java
 switch(表达式) {
       case 值1：
             语句体1;
