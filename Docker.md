@@ -2,7 +2,10 @@
  * Docker官网：<https://www.docker.com>
  * 仓库地址：<https://hub.docker.com>
 ### Docker安装
-
+#### MacOS
+* 使用 Homebrew 安装
+[Homebrew](https://brew.sh/) 的 [Cask](https://github.com/Homebrew/homebrew-cask) 已经支持 Docker Desktop for Mac，因此可以很方便的使用 Homebrew Cask 来进行安装：
+`$ brew install --cask docker`
 ### Docker原理
 ### Docker命令
 ### Docker镜像
