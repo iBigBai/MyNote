@@ -16,7 +16,7 @@
 ### Docker Compose（集群）
 ### Docker Swarm
 ### CUI/CD Jenkins（持续集成/部署）
-
+* Homebrew 错误信息
 ``` shell
       
 
