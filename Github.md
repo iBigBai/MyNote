@@ -8,10 +8,10 @@
 * 发起请求：`Pull Request`
 > 基于Fork，其他人做了改进，希望合并到原项目中，简称（PR）
 >详细步骤：
->>1.  fork项目
->>2. 修改自己仓库项目代码
->>3. 创建Pull Request请求
->>4. 等待作者操作（合并：`Merge`，代码审查）
+>* fork项目
+>* 修改自己仓库项目代码
+>* 创建Pull Request请求
+>* 等待作者操作（合并：`Merge`，代码审查）
 * 关注：`Watch`
 > 关注某个项目，会收到更新提醒
 * 问题卡片：`Issue`
@@ -29,8 +29,9 @@
 > 添加，编辑，修改文件的动作
 ``` mermaid
 graph LR
-A[工作区]-->B[暂存区index]
-B-->C[Git仓库head]
+A[工作区]-->|git add|B[暂存区index]
+B-->|git commit -m|C[Git仓库head]
+C-->|git push|D[github]
 ```
 ### Git常用命令
 * 常用命令
