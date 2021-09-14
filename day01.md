@@ -1,19 +1,19 @@
 ## 常见WIN_DOS命令
 
-`d`  回车	盘符切换
-`dir` 列出当前目录下的文件以及文件夹(directory)
-`cd` 改变指定目录(进入指定目录)(change directory)
-`cd..`   退回到上一级目录
-`cd\(cd/)`   退回到根目录
-`cls `  清屏(clear screen)
-`exit`   退出dos命令行
-`md`   创建目录(make directory)
-`rd `  删除目录(remove directory)
-`del `  删除文件,删同一类型的文件*.txt  (delete)
-`notepad`   创建文件
+`d`  回车	盘符切换  
+`dir` 列出当前目录下的文件以及文件夹(directory)  
+`cd` 改变指定目录(进入指定目录)(change directory)  
+`cd..`   退回到上一级目录  
+`cd\(cd/)`   退回到根目录  
+`cls `  清屏(clear screen)  
+`exit`   退出dos命令行  
+`md`   创建目录(make directory)  
+`rd `  删除目录(remove directory)  
+`del `  删除文件,删同一类型的文件*.txt  (delete)  
+`notepad`   创建文件  
 删除带内容的文件夹
-`rd + /s`	文件夹名称(询问是否删除)
-`rd + /q + /s `文件夹名称(直接删除)
+`rd + /s`	文件夹名称(询问是否删除)  
+`rd + /q + /s `文件夹名称(直接删除)  
 
 ## JDK目录详解
  * bin目录：该目录用于存放一些可执行程序。
