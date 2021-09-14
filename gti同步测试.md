@@ -1,8 +1,0 @@
-# git同步测试
-- 测试git同步功能1234564564564632423432
-- jksldjfklsdjfkdsskdjfkjsdfkdjsf
-- 456456456456
-- 789789798
-_1010101010
-_132123132132  
-jjjjjjjjjjj
