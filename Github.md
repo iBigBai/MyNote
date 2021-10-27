@@ -35,18 +35,18 @@ C-->|git push|D[github]
 ```
 ### Git常用命令
 * 常用命令
-`git status`：查看文件当前状态
-`git add test.java`：提交test文件到暂存区
-`git rm test.java`：删除Git文件
-`git commit -m '提交描述'`：提交文件到Git仓库
-`git push`：将本地Git仓库代码提交到远程Github
-`git remote add origin 项目地址`：将本地项目连接到github远程仓库
-`git checkout head test.java`：恢复本地误删文件,忽略工作区修改将文件还原
-`git reset --hard head^^`：恢复到上一个版本
-`git reset --mixed`：撤回commit，并且不会影响工作区
-`git reset head`：清除暂存区内容
-`git reflog`：日志
-`git pull`：命令用于从远程获取代码并合并本地的版本
+`git status`：查看文件当前状态  
+`git add test.java`：提交test文件到暂存区  
+`git rm test.java`：删除Git文件  
+`git commit -m '提交描述'`：提交文件到Git仓库  
+`git push`：将本地Git仓库代码提交到远程Github  
+`git remote add origin 项目地址`：将本地项目连接到github远程仓库  
+`git checkout head test.java`：恢复本地误删文件,忽略工作区修改将文件还原  
+`git reset --hard head^^`：恢复到上一个版本  
+`git reset --mixed`：撤回commit，并且不会影响工作区  
+`git reset head`：清除暂存区内容  
+`git reflog`：日志  
+`git pull`：命令用于从远程获取代码并合并本地的版本  
 ### Git基础设置
 * 初始化用户：在GitHub会显示当前设置的用户名
 >1. 设置用户名
