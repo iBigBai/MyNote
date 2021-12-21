@@ -36,7 +36,7 @@ C-->|git push|D[github]
 ### Git常用命令
 * 常用命令  
 `git status`：查看文件当前状态  
-`git brash`
+`git brash --v`
 `git add test.java`：提交test文件到暂存区  
 `git rm test.java`：删除Git文件  
 `git commit -m '提交描述'`：提交文件到Git仓库  
