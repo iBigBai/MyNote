@@ -71,7 +71,7 @@ C-->|git push|D[github]
 ### 常见错误
 * 错误：`The request URL returned error:403 Forbidden while accessing`
 > 私有项目，没有权限，输入用户名密码，或者远程地址采用这种类型
->```
+>``` shell
 vi .git/config
 --将
 [remote "origin"]
