@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MacOS环境搭建.md",
-            "mode": "preview"
+            "file": "Github.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MacOS环境搭建.md",
+                "file": "Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "4802161ff1053019",
   "lastOpenFiles": [
-    "MacOS环境搭建.md"
+    "Github.md",
+    "MacOS环境搭建.md",
+    "day04.md",
+    "day02.md",
+    "day01.md"
   ]
 }
