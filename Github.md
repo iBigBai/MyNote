@@ -82,8 +82,8 @@ url=https://用户名：密码@github.com/用户名/仓库名.git
 >```
 - 错误：`fatal: refusing to merge unrelated histories`
 > 在两个分支合并的时候，出现了下面的这个错误。
-> jiejue在你操作命令后面加`--allow-unrelated-histories`
->  
+> 解决方法：在你操作命令后面加`--allow-unrelated-histories`
+>  例如：`git pull origin master --allow-unrelated-histories`
 ## Github个人主页
 ### 个人主页
 * 访问地址<https://用户名.github.io>
