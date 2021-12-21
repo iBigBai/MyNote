@@ -87,17 +87,13 @@ url=https://用户名：密码@github.com/用户名/仓库名.git
 - 错误：```warning: Pulling without specifying how to reconcile divergent branches is
 discouraged. You can squelch this message by running one of the following
 commands sometime before your next pull:
-
   git config pull.rebase false  # merge (the default strategy)
   git config pull.rebase true   # rebase
   git config pull.ff only       # fast-forward only
-
 You can replace "git config" with "git config --global" to set a default
 preference for all repositories. You can also pass --rebase, --no-rebase,
 or --ff-only on the command line to override the configured default per
-invocation.
-————————————————
-版权声明：本文为CSDN博主「Pleidy」的原创文章，遵循CC 4.0 BY-SA版`
+invocation.```
 ## Github个人主页
 ### 个人主页
 * 访问地址<https://用户名.github.io>
