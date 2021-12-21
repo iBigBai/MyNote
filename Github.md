@@ -69,7 +69,7 @@ C-->|git push|D[github]
 * Git克隆clone操作
 `git clone 仓库地址`：clone项目
 ### 常见错误
-* 错误：`The request URL returned error:403 Forbidden while accessing`
+- 错误：`The request URL returned error:403 Forbidden while accessing`
 > 私有项目，没有权限，输入用户名密码，或者远程地址采用这种类型
 >``` shell
 vi .git/config
@@ -84,6 +84,20 @@ url=https://用户名：密码@github.com/用户名/仓库名.git
 > 在两个分支合并的时候，出现了下面的这个错误。
 > 解决方法：在你操作命令后面加`--allow-unrelated-histories`
 >  例如：`git pull origin master --allow-unrelated-histories`
+- 错误：```warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+————————————————
+版权声明：本文为CSDN博主「Pleidy」的原创文章，遵循CC 4.0 BY-SA版`
 ## Github个人主页
 ### 个人主页
 * 访问地址<https://用户名.github.io>
