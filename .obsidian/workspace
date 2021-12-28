@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4802161ff1053019",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Github.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "783a8dfa942b3683",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Github.md",
+            "file": "MacOS环境搭建.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "MacOS环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4802161ff1053019",
+  "active": "783a8dfa942b3683",
   "lastOpenFiles": [
-    "Github.md",
     "MacOS环境搭建.md",
+    "Github.md",
     "day04.md",
     "day02.md",
     "day01.md"
