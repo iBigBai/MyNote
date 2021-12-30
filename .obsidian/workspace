@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "day01.md",
+            "file": "day04.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day01.md",
+                "file": "day04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,12 @@
   },
   "active": "783a8dfa942b3683",
   "lastOpenFiles": [
-    "day01.md",
-    "MacOS环境搭建.md",
-    "Github.md",
     "day04.md",
-    "day02.md"
+    "MacOS环境搭建.md",
+    "README.md",
+    "day03.md",
+    "day02.md",
+    "day01.md",
+    "Github.md"
   ]
 }
