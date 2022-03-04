@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "day06.md",
+            "file": "day01.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day06.md",
+                "file": "day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "783a8dfa942b3683",
   "lastOpenFiles": [
+    "day01.md",
     "day06.md",
     "day07.md",
     "day02.md",
-    "day01.md",
     "Docker.md",
     "day04.md",
     "day03.md",
